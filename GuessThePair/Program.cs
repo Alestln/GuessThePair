@@ -174,7 +174,7 @@
 
             DisplayBoard(cards, revealed);
 
-            Console.WriteLine("\nПОБЕДА");
+            Console.WriteLine("\nВы победили!!!");
         }
     }
 }
